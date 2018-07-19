@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomViews</string>
+
+    <string name="isark">isArk</string>
+    <string name="count">count</string>
+    <string name="_10">10</string>
+    <string name="multiplication">multiplication</string>
+    <string name="_0">0</string>
+    <string name="addition">addition</string>
+</resources>

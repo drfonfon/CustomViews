@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RuneView">
+        <attr name="rune_count" format="integer"/>
+        <attr name="rune_circle_color" format="color"/>
+        <attr name="rune_points_color" format="color"/>
+        <attr name="rune_start_color" format="color"/>
+        <attr name="rune_end_color" format="color"/>
+        <attr name="rune_style" format="enum">
+            <enum name="linear" value="0"/>
+            <enum name="ark" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="HexagonProgress">
+        <attr name="hp_color" format="color"/>
+        <attr name="hp_stroke_width" format="integer"/>
+    </declare-styleable>
+</resources>
